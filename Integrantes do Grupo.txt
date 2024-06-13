@@ -1,3 +1,2 @@
-Nome: Adriano Rapussi
-Nome: Danillo Gomes Santos
-Nome: Bruno Weninger
+# Nomes:
+-
